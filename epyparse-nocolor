@@ -1,0 +1,3 @@
+#!/bin/bash
+
+epyparse-clean print --nocolor --path "$1"

@@ -1,3 +1,11 @@
+
+epydoc has it's own license (MIT) see http://epydoc.sourceforge.net/license.html
+
+epyparse... doesn't seem to have a license:
+See https://pypi.python.org/pypi/epyparse
+
+The rest of it:
+
 The MIT License (MIT)
 
 Copyright (c) 2016 Adrian Likins

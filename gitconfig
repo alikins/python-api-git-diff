@@ -1,0 +1,7 @@
+
+[diff "epydoc"]
+    # textconv = epyparse
+    xfuncname="^\\s*(class.*\\(.*\\)|def.*)(\\(|:)"
+    textconv = epyparse-nocolor
+    # cachetextconf = true
+
